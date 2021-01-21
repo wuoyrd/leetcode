@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <WarningsAsErrors>true</WarningsAsErrors>
+        <RootNamespace>LeetCode.Problems</RootNamespace>
+        <AssemblyName>LeetCode.Problems</AssemblyName>
+    </PropertyGroup>
+
+</Project>
