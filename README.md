@@ -1,5 +1,7 @@
 # LeetCode Problems & Solutions
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 An ongoing collection of submitted solutions for LeetCode problems. The solutions are mostly in C#, but expanding them into other languages is a long-term goal.
 
 ## Solved (62)
